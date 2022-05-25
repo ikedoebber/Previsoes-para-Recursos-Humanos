@@ -14,3 +14,12 @@ Alguns exemplos de dados analisados no dataset para a tomada de decisão:
 * Relacionamento;
  
 * Equilibrio entre atividades pessoais e profissionais;
+
+
+**Pacotes utilizados**
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* sklearn
+* tensorflow
