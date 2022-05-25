@@ -3,9 +3,14 @@
 
 Alguns exemplos de dados analisados no dataset para a tomada de decisão:
 
- Envolvimento com o trabalho
- Escolaridade 
- Satisfação com o trabalho
- Métricas de desempenho 
- Relacionamento
- Equilibrio entre atividades pessoais e profissionals
+* Envolvimento com o trabalho;
+ 
+* Escolaridade;
+ 
+* Satisfação com o trabalho;
+ 
+* Métricas de desempenho; 
+ 
+* Relacionamento;
+ 
+* Equilibrio entre atividades pessoais e profissionais;
